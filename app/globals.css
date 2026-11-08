@@ -16,7 +16,7 @@
 .family-name-card{position:relative;overflow:hidden;transition:transform .25s,box-shadow .25s}.family-name-card:hover{transform:translateY(-5px);box-shadow:0 20px 48px rgba(111,61,78,.14)}
 .family-number{font-family:'Playfair Display',serif;font-size:1.7rem;color:#bd9452;opacity:.8}
 .photo-card{text-align:center;min-width:0}.photo-frame{padding:10px;border-radius:28px;background:linear-gradient(135deg,#d5b77d,#fff8e9,#b77b8d);box-shadow:0 22px 55px rgba(91,35,58,.15)}
-.photo-image{display:block;width:100%;height:clamp(280px,42vw,470px);object-fit:cover;border-radius:20px;background:#f4e7e8}
+.photo-image{display:block;width:100%;height:auto;border-radius:20px;background:#f4e7e8}
 .detail-card{transition:transform .25s,box-shadow .25s}.detail-card:hover{transform:translateY(-4px);box-shadow:0 22px 50px rgba(111,61,78,.13)}
 .detail-icon{width:56px;height:56px;border-radius:50%;background:#f6e4e9;color:#a65e78;display:grid;place-items:center;margin-inline:auto}
 @media(max-width:380px){.hero-name{font-size:1.85rem;letter-spacing:-.055em}.section-wrap{width:calc(100% - 28px)}.family-highlight{font-size:1.8rem}}
