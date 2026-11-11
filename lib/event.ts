@@ -17,7 +17,7 @@ export const event = {
   familyMembers: ['NAGARAJAN R', 'KANAGATHARA N', 'VIJAIVISHNU N' ],
   musicVideoId: 'BZoYHI24iuc',
   hostLine: 'அன்புடன் அழைக்கும்',
-  familyLine: 'NKVS FAMILY',
+  familyLine: 'NKVS FAMILY , RAMAKRISHNA PRINTERS',
   inviteMessage: '. . .',
   celebrationSchedule: [
     { title: 'நிகழ்ச்சி தொடக்கம்', subtitle: 'Welcome & Gathering', time: '11.00 AM Onwards' },
