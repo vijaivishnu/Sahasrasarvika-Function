@@ -81,7 +81,7 @@ export default function InvitationSite() {
       <div className="absolute inset-3 sm:inset-5 border border-[#c6a66e]/50 rounded-[28px] sm:rounded-[34px] pointer-events-none"/><div className="absolute inset-5 sm:inset-8 border border-[#c6a66e]/25 rounded-[22px] sm:rounded-[28px] pointer-events-none"/>
       <motion.div initial="hidden" animate="show" variants={{ show: { transition: { staggerChildren: .18 } } }} className="relative z-10 w-full max-w-5xl mx-auto">
         <motion.div variants={fade} className="ornament text-sm mb-7">✧ ❀ ✧ ❀ ✧</motion.div>
-        <motion.p variants={fade} className="tamil text-[#9c6c7d] text-lg sm:text-xl">ஓம் ஸ்ரீ கணபதயே நமஹ . ஸ்ரீ வாசவி சகாயம் . ஸ்ரீ அங்காளம்மன் துணை</motion.p>
+        <motion.p variants={fade} className="tamil text-[#9c6c7d] text-lg sm:text-xl">ஓம் ஸ்ரீ கணபதயே நமஹ .   ஸ்ரீ வாசவி சகாயம் . ஸ்ரீ அங்காளம்மன் துணை</motion.p>
         <motion.p variants={fade} className="mt-8 uppercase tracking-[.25em] sm:tracking-[.35em] text-xs sm:text-sm text-[#987044]">With immense joy & gratitude</motion.p>
         <motion.h1 variants={fade} className="hero-name mt-5">{event.honoree}</motion.h1>
         <motion.div variants={fade} className="gold-line max-w-xs mx-auto my-7"/>
